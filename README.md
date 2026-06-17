@@ -1,4 +1,5 @@
-# Snoopy7za8ll <!doctype html>
+# Snoopy7za8ll 
+<!doctype html>
 <html>
     <head>
         <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
